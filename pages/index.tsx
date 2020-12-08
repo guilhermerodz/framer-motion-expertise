@@ -16,6 +16,11 @@ export default function Home() {
             <a>Go to Stagger Children</a>
           </Link>
         </li>
+        <li>
+          <Link href="/hover">
+            <a>Go to Hover</a>
+          </Link>
+        </li>
       </ul>
     </>
   )
